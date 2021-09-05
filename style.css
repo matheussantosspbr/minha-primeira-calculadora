@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: opx;
+}
+.Resultado {
+    background-color: rgb(26, 26, 189);
+    width: 200px;
+    height: 280px;
+    border: 0px;
+    border-radius: 20px;
+}
+#res {
+    background-color: white;
+    width: 150px;
+    height: 20px;
+    border: 0px;
+    border-radius: 5px;
+}
+#resultado {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    display: inline;
+}
+button{
+    border-radius: 3px;
+    border: 0px;
+    border-color: black;
+    font-family: Arial normal 30px;
+}
+body{
+    background-color: rgb(1, 162, 255);
+}
+h2{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
